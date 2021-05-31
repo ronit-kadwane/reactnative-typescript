@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571936181868",
+    "project_id": "assignmet-bussr",
+    "storage_bucket": "assignmet-bussr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571936181868:android:03696a7920177030c9d249",
+        "android_client_info": {
+          "package_name": "com.bussr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571936181868-2jskkqc1n53mu21s1qvdj3nd1p4vrr15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVUIEnzZM9dhraZRn8a86LJYlto7r28Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571936181868-2jskkqc1n53mu21s1qvdj3nd1p4vrr15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
